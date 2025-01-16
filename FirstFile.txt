@@ -1,2 +1,5 @@
 Hello. This is a test file.
 Currently, the version is: 1
+
+Hello. This is a test file.
+Currently, the version is: 2
