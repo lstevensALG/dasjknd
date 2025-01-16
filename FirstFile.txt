@@ -9,3 +9,6 @@ Currently, the version is: 3
 
 Hello. This is a test file.
 Currently, the version is: 4
+
+Hello. This is a test file.
+Currently, the version is: 5
